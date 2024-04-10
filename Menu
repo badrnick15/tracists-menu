@@ -1340,7 +1340,7 @@ UserInputService.InputBegan:Connect(function(Key)
 
 			if TargetAimbot.Notify then
 				StarterGui:SetCore("SendNotification", {
-					Title = "Azure Modded [Actyrn#7104]", 
+					Title = "Tracists.cc [tracists#0]", 
 					Text = "Untargeting: " .. TargetPlr.DisplayName, 
 					Duration = 3
 				})
@@ -1352,7 +1352,7 @@ UserInputService.InputBegan:Connect(function(Key)
 
 				if TargetAimbot.Notify then
 					StarterGui:SetCore("SendNotification", {
-						Title = "Azure Modded [Actyrn#7104]", 
+						Title = "Tracists.cc [tracists#0]", 
 						Text = "Targeting: " .. TargetPlr.DisplayName, 
 						Duration = 3
 					})
@@ -1371,7 +1371,7 @@ UserInputService.InputBegan:Connect(function(Key)
 
 			if CameraAimbot.Notify then
 				StarterGui:SetCore("SendNotification", {
-					Title = "Azure Modded [Actyrn#7104]", 
+					Title = "Tracists.cc [tracists#0]", 
 					Text = "Untargeting: " .. CamlockPlr.DisplayName, 
 					Duration = 3
 				})
@@ -1383,7 +1383,7 @@ UserInputService.InputBegan:Connect(function(Key)
 
 				if CameraAimbot.Notify then
 					StarterGui:SetCore("SendNotification", {
-						Title = "Azure Modded [Actyrn#7104]", 
+						Title = "Tracists.cc [tracists#0]", 
 						Text = "Targeting: " .. CamlockPlr.DisplayName, 
 						Duration = 3
 					})
